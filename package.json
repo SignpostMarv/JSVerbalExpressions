@@ -19,7 +19,8 @@
     "grunt-jsdoc": "^1.1.0",
     "grunt-qunit-istanbul": "^0.6.0",
     "grunt-sourcemap-localize": "^0.1.0",
-    "load-grunt-tasks": "^3.4.0"
+    "load-grunt-tasks": "^3.4.0",
+    "verbal-expressions-tests": "signpostmarv/verbal-expressions-tests"
   },
   "repository": {
     "type": "git",
